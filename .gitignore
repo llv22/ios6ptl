@@ -1,2 +1,6 @@
 .idea
 project.xcworkspace
+# for ios6ptl tableui group
+.DS_Store
+# ch11/MKAccordion/.DS_Store
+ch11/MKAccordion/MKAccordion.xcodeproj/xcuserdata/
